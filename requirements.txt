@@ -21,7 +21,7 @@ chrome-gnome-shell==0.0.0
 coincurve==13.0.0
 command-not-found==0.3
 constantly==15.1.0
-cryptography==2.9.2
+cryptography==3.2
 cupshelpers==1.0
 daemonize==2.4.7
 daphne==2.5.0
