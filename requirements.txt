@@ -75,7 +75,7 @@ pandas==1.0.4
 paramiko==2.6.0
 pathtools==0.1.2
 pexpect==4.6.0
-Pillow==7.1.2
+Pillow==8.1.1
 ply==3.11
 protobuf==3.11.3
 PyAudio==0.2.11
