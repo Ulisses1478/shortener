@@ -32,7 +32,7 @@ defusedxml==0.6.0
 distlib==0.3.0
 distro==1.4.0
 distro-info===0.23ubuntu1
-Django==3.0.5
+Django==3.1.9
 django-livesync==0.5
 djangorestframework==3.11.2
 duplicity==0.8.12.0
