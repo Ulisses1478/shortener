@@ -68,7 +68,7 @@ more-itertools==4.2.0
 mysqlclient==1.4.4
 netifaces==0.10.4
 notify2==0.3
-numpy==1.18.4
+numpy==1.22.0
 oauthlib==3.1.0
 olefile==0.46
 pandas==1.0.4
